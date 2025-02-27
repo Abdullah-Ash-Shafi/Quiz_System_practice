@@ -1,0 +1,48 @@
+Who is the creator of Python? - Guido van Rossum
+Which keyword is used to define a function in Python? - def
+What data type is used to store multiple values in an ordered sequence in Python? - list
+Which symbol is used for single-line comments in Python? - #
+Which keyword is used to create a loop that repeats while a condition is true? - while
+How do you check the type of a variable in Python? - type()
+Which keyword is used to handle exceptions in Python? - try
+Which module is used for working with regular expressions in Python? - re
+What is the output of '3 ** 2' in Python? - 9
+What is the default return type of a function that has no return statement? - None
+Which function is used to take user input in Python? - input()
+Which data structure follows the Last In First Out (LIFO) principle in Python? - stack
+Which method is used to remove the last item from a list in Python? - pop()
+Which operator is used for exponentiation in Python? - **
+Which function is used to read a file in Python? - open()
+What is the purpose of 'self' in Python classes? - It refers to the instance of the class
+Which keyword is used to define an anonymous function in Python? - lambda
+Which Python built-in function returns the length of a string, list, or tuple? - len()
+Which method is used to remove whitespace from both ends of a string? - strip()
+What is the output of 'bool([])' in Python? - False
+Which module is used for generating random numbers in Python? - random
+Which function is used to sort a list in Python? - sort()
+Which Python collection is unordered and does not allow duplicates? - set
+Which keyword is used to define a class in Python? - class
+Which method is used to add an element to the end of a list? - append()
+What is the result of '5 // 2' in Python? - 2
+Which function is used to return the largest value from a list? - max()
+Which function is used to return the smallest value from a list? - min()
+Which module is used for working with dates and times in Python? - datetime
+Which operator is used to check if a value exists in a list? - in
+Which function is used to convert a string to an integer in Python? - int()
+What is the name of the special method used to initialize a class object? - __init__
+Which Python data structure stores key-value pairs? - dictionary
+Which function is used to display output in Python? - print()
+What is the output of 'list(range(3))' in Python? - [0, 1, 2]
+Which function is used to convert a list into a tuple in Python? - tuple()
+What is the output of 'bool(0)' in Python? - False
+Which statement is used to exit a loop in Python? - break
+Which function is used to merge two lists in Python? - extend()
+Which function is used to generate a sequence of numbers in Python? - range()
+Which method is used to replace a substring in a string? - replace()
+Which function returns the absolute value of a number? - abs()
+Which keyword is used to define a generator in Python? - yield
+What is the purpose of 'with' when opening a file in Python? - It ensures proper file handling and automatic closure
+Which function is used to round a number to a specific number of decimal places? - round()
+Which function returns a list of all attributes and methods of an object? - dir()
+Which keyword is used to inherit a class in Python? - class (with parentheses for the base class)
+What will '3 * "Hello"' return in Python? - HelloHelloHello

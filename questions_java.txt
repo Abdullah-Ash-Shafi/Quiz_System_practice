@@ -1,0 +1,59 @@
+Who is the creator of Java? - James Gosling
+Which company developed Java? - Sun Microsystems
+Which keyword is used to define a class in Java? - class
+What is the default value of an int variable in Java? - 0
+Which method is the entry point of a Java program? - main()
+Which keyword is used to create an object in Java? - new
+Which operator is used for bitwise AND in Java? - &
+Which keyword is used to define a constant variable in Java? - final
+Which package is imported by default in every Java program? - java.lang
+Which data type is used to store true or false values in Java? - boolean
+Which loop is guaranteed to execute at least once in Java? - do-while loop
+Which keyword is used to inherit a class in Java? - extends
+Which keyword is used to implement an interface in Java? - implements
+What is the size of an int in Java? - 4 bytes
+Which operator is used to compare two values in Java? - ==
+Which keyword is used to define an abstract class in Java? - abstract
+Which collection in Java allows only unique elements? - Set
+Which method is used to get the length of an array in Java? - length
+Which method is used to get the length of a String in Java? - length()
+Which keyword is used to prevent method overriding in Java? - final
+What is the parent class of all Java classes? - Object
+Which exception is thrown when an array index is out of bounds? - ArrayIndexOutOfBoundsException
+Which keyword is used to handle exceptions in Java? - try
+Which keyword is used to throw an exception in Java? - throw
+Which access specifier allows access only within the same class? - private
+Which method is called when an object is created in Java? - Constructor
+Which collection in Java follows the Last In First Out (LIFO) principle? - Stack
+Which function is used to read input from the console in Java? - next() (Scanner class)
+Which Java feature allows multiple methods with the same name but different parameters? - Method Overloading
+Which keyword is used to define an interface in Java? - interface
+Which class in Java is used to handle files? - File
+Which method is used to compare two strings in Java? - equals()
+Which operator is used to concatenate strings in Java? - +
+What is the default access modifier in Java? - package-private
+Which keyword is used to create a thread in Java? - extends Thread or implements Runnable
+Which Java feature allows one class to have multiple child classes? - Inheritance
+Which keyword is used to stop the execution of a loop in Java? - break
+Which function is used to convert a string to an integer in Java? - Integer.parseInt()
+Which function is used to convert an integer to a string in Java? - String.valueOf()
+What is the purpose of the 'super' keyword in Java? - It refers to the parent class
+Which function is used to get the current system time in Java? - System.currentTimeMillis()
+Which class is used for date and time operations in Java? - LocalDateTime (Java 8 and later)
+Which method is used to remove an element from an ArrayList in Java? - remove()
+Which Java data structure uses key-value pairs? - HashMap
+Which access specifier allows access to subclasses but not other classes? - protected
+Which keyword is used to refer to the current object in Java? - this
+Which loop is best used when the number of iterations is known? - for loop
+Which method is used to check if a string contains a certain substring in Java? - contains()
+Which function in Java is used to convert a string to lowercase? - toLowerCase()
+Which function in Java is used to convert a string to uppercase? - toUpperCase()
+What is the size of a char in Java? - 2 bytes
+What is the main advantage of using Java over C++? - Platform independence (Write Once, Run Anywhere)
+What is the default value of a boolean variable in Java? - false
+Which keyword is used to return control from a method in Java? - return
+Which function is used to generate a random number in Java? - Math.random()
+Which interface in Java is used for implementing a queue? - Queue
+Which Java feature ensures that an object is properly initialized? - Constructor
+Which function is used to get the first element of a LinkedList in Java? - getFirst()
+Which Java data structure allows insertion and deletion from both ends? - Deque

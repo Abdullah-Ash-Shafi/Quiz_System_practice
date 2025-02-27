@@ -1,0 +1,59 @@
+Who is the creator of C++? - Bjarne Stroustrup
+Which symbol is used for single-line comments in C++? - //
+What is the default return type of the main function in C++? - int
+Which keyword is used to define a constant variable in C++? - const
+Which operator is used to allocate memory dynamically in C++? - new
+Which function is used to deallocate dynamically allocated memory in C++? - delete
+Which header file is needed for input/output operations in C++? - iostream
+What does OOP stand for in C++? - Object-Oriented Programming
+Which keyword is used to define a class in C++? - class
+What is the entry point of a C++ program? - main function
+Which loop is guaranteed to execute at least once in C++? - do-while loop
+Which operator is used for accessing members of a class through a pointer? - ->
+Which keyword is used to inherit a class in C++? - public, private, protected
+Which keyword is used to prevent a function from being overridden in C++? - final
+Which function is used to read a full line of input in C++? - getline
+Which header file is required for using vectors in C++? - vector
+Which feature of C++ allows defining multiple functions with the same name but different parameters? - Function Overloading
+Which concept in C++ allows multiple classes to have a common interface? - Polymorphism
+What is the use of the 'virtual' keyword in C++? - To enable runtime polymorphism
+What is the file extension for a C++ source file? - .cpp
+Which feature in C++ allows a class to have multiple functions with the same name but different parameters? - Function Overloading
+What is the name of the mechanism that allows defining multiple functions with the same name in different classes related by inheritance? - Function Overriding
+Which C++ keyword is used to define a derived class? - class
+What is the use of the 'static' keyword in C++? - It defines static variables or functions that retain their value between function calls
+Which operator is used for scope resolution in C++? - ::
+Which header file is required for working with files in C++? - fstream
+Which data structure is used internally by the C++ Standard Template Library (STL) stack? - deque
+Which function is used to get the size of a vector in C++? - size()
+What is the default access specifier for members of a class in C++? - private
+What is the main advantage of using templates in C++? - Code reusability
+Which function in C++ is used to find the length of a string? - length() or size()
+What is the difference between '==' and '===' in C++? - '===' does not exist in C++, only '==' for comparison
+Which function is used to allocate memory for an array dynamically in C++? - new[]
+Which keyword is used to return control from a function in C++? - return
+What does 'cin' stand for in C++? - Character Input
+Which container in C++ allows insertion and deletion from both ends? - deque
+Which access specifier allows access to derived classes but not outside the class? - protected
+What is the purpose of the 'friend' function in C++? - It allows access to private and protected members of a class
+Which operator is used to get the address of a variable in C++? - & (Address-of operator)
+What will 'sizeof(int)' return in most 32-bit systems? - 4 bytes
+Which C++ feature allows defining a function inside a class? - Inline functions
+What is the purpose of the 'this' pointer in C++? - It points to the calling object
+Which keyword is used to prevent a base class from being inherited? - final
+What is the use of 'typedef' in C++? - It creates an alias for a data type
+Which concept in C++ ensures that an object is initialized only once? - Singleton pattern
+What is a constructor in C++? - A special function used to initialize an object
+Which operator is used to check if an object belongs to a specific class in C++? - typeid or dynamic_cast
+Which STL container follows the Last In First Out (LIFO) principle? - stack
+What does 'RAII' stand for in C++? - Resource Acquisition Is Initialization
+Which function in C++ is used to copy one string into another? - strcpy()
+What is the difference between 'delete' and 'delete[]' in C++? - 'delete' is for single objects, 'delete[]' is for arrays
+Which keyword is used to handle exceptions in C++? - try, catch, throw
+Which function is used to check if a file has reached the end in C++? - eof()
+What is the purpose of 'virtual destructor' in C++? - Ensures proper cleanup of derived class objects
+What is the difference between 'malloc()' and 'new' in C++? - 'malloc()' is a C function, 'new' is a C++ operator that also calls constructors
+Which operator is used to concatenate strings in C++? - +
+What is the difference between struct and class in C++? - Default access modifier for struct is public, while for class it is private
+What is the return type of the main function in C++? - int
+
