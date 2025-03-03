@@ -56,4 +56,4 @@ Which function is used to generate a random number in Java? - Math.random()
 Which interface in Java is used for implementing a queue? - Queue
 Which Java feature ensures that an object is properly initialized? - Constructor
 Which function is used to get the first element of a LinkedList in Java? - getFirst()
-Which Java data structure allows insertion and deletion from both ends? - Deque
+
